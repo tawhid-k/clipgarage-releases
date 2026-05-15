@@ -5,5 +5,16 @@
     <link>https://tawhid-k.github.io/clipgarage-releases/appcast.xml</link>
     <description>ClipGarage releases</description>
     <language>en</language>
+    <item>
+      <title>Version 2.9.0</title>
+      <pubDate>Fri, 15 May 2026 10:47:35 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/tawhid-k/clipgarage-releases/releases/download/v2.9.0/ClipGarage-v2.9.0.dmg"
+        sparkle:edSignature="QT3sSeht4imWIy7Gc+X91EUaRG4UMt9FK1/ZAtxZ01unHDFGVyntWmGySDAdIHAYYu0lMPLDZzC1/qd6HyWmDw=="
+        length="25673566"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

@@ -6,25 +6,14 @@
     <description>ClipGarage releases</description>
     <language>en</language>
     <item>
-      <title>Version 2.9.1</title>
-      <pubDate>Fri, 15 May 2026 16:02:53 +0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+      <title>Version 1.0.0</title>
+      <pubDate>Fri, 15 May 2026 16:45:51 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/tawhid-k/clipgarage-releases/releases/download/v2.9.1/ClipGarage-v2.9.1.dmg"
-        sparkle:edSignature="mviRcRX5AVd2tC+GG8Q9TBAT/FnclwKfKXy7OoJc/o8NuonJIoTID7kyM3nIGHqX9oQlbze5kWWSfXyPm8lGAQ=="
-        length="25692974"
-        type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 2.9.0</title>
-      <pubDate>Fri, 15 May 2026 10:47:35 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
-      <enclosure
-        url="https://github.com/tawhid-k/clipgarage-releases/releases/download/v2.9.0/ClipGarage-v2.9.0.dmg"
-        sparkle:edSignature="QT3sSeht4imWIy7Gc+X91EUaRG4UMt9FK1/ZAtxZ01unHDFGVyntWmGySDAdIHAYYu0lMPLDZzC1/qd6HyWmDw=="
-        length="25673566"
+        url="https://github.com/tawhid-k/clipgarage-releases/releases/download/v1.0.0/ClipGarage-v1.0.0.dmg"
+        sparkle:edSignature="7wwn6Opsevhg8H5C4Iwl2oCsszx8CVW2aRPRxR87y+hhyLc7A0YUba3Xrih/KRz7W8wt5MBwA75YwvixoLOQDg=="
+        length="25693015"
         type="application/octet-stream"/>
     </item>
   </channel>

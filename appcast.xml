@@ -6,6 +6,17 @@
     <description>ClipGarage releases</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <pubDate>Thu, 11 Jun 2026 06:52:46 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/tawhid-k/clipgarage-releases/releases/download/v1.1.2/ClipGarage-v1.1.2.dmg"
+        sparkle:edSignature="VubVAxaF1za0ItfNjxjlYpxy/H3FhlSPGV8Ze7oFxg2IZoKOuEYBv+sB3SgXB3EOaefUCxgMJ+ZZXPFw6EsZDg=="
+        length="25086893"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <pubDate>Fri, 05 Jun 2026 15:34:35 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
